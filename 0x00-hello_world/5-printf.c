@@ -2,6 +2,7 @@
 
 int main(void)
 {
-\tprintf("%s\n", "with proper grammar, but the outcome is a piece of art,");
-\treturn (0);
+	printf("%s
+", "with proper grammar, but the outcome is a piece of art,");
+	return (0);
 }
