@@ -1,5 +1,5 @@
-#ifndef "MAIN.H"
-#define "MAIN.H"
+#ifndef MAIN.H
+#define MAIN.H
 #include "main.h"
 /**
  * print_alphabet - Prints the alphabet in lowercase.
@@ -18,4 +18,4 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }
-#endif "MAIN.H"
+#endif MAIN.H
