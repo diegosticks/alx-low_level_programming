@@ -1,5 +1,5 @@
-#ifndef "main.h"
-#define "main.h"
+#ifndef MAIN.H
+#define MAIN.H
 
 /**
  * print_alphabet - Prints the alphabet in lowercase.
