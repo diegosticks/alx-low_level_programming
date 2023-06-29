@@ -1,1 +1,1 @@
-This is introduction to c low level programming language
+More pointers, arrays and strings
